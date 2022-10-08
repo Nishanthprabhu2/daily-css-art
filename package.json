@@ -1,0 +1,23 @@
+{
+  "name": "daily-css-art",
+  "version": "1.0.0",
+  "description": "learn css by creating art in css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishanthprabhu2/daily-css-art.git"
+  },
+  "keywords": [
+    "css",
+    "css-art"
+  ],
+  "author": "Nishanth Prabhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishanthprabhu2/daily-css-art/issues"
+  },
+  "homepage": "https://github.com/Nishanthprabhu2/daily-css-art#readme"
+}
